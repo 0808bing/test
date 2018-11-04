@@ -1,0 +1,8 @@
+body {
+  background-color: pink
+}
+body,div,p,b,h1,h2,span{
+  margin: 0;
+  padding: 0;
+}
+  
